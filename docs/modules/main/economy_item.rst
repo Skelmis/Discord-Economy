@@ -3,7 +3,7 @@ Economy Items
 
 .. currentmodule:: economy/classes
 
-.. autoclass:: Item
+.. autoclass:: EconomyItem
     :members:
     :undoc-members:
     :special-members: __init__
